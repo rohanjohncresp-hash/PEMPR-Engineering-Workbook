@@ -1,0 +1,30 @@
+# Microsoft Office temporary and lock files
+~$*
+*.tmp
+*.temp
+*.asd
+*.wbk
+*.xlk
+*.sv$
+
+# LibreOffice lock files
+.~lock.*#
+
+# Backup and autosave files
+*.bak
+*.backup
+*.old
+*.orig
+*.autosave
+*~
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
